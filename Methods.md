@@ -49,3 +49,9 @@ e^{7i\theta} = (cos\theta + isin\theta)^7 = cos(7\theta) +isin(7\theta)&&
 \end{flalign}
 $$
 
+### Drawing Argand diagrams
+
+- Draw lines to each point
+- Remember to label $Im$ and $Re$ on the axis
+
+ 

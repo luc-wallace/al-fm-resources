@@ -108,7 +108,8 @@ $$
 $$
 ### Weierstrass subsitution
 
-where $$
+where
+$$
 \Large
 \begin{flalign}
 t = tan(\frac{x}{2})&&
@@ -131,3 +132,17 @@ $$
 tan(x) = \frac{2t}{1-t^2}&&
 \end{flalign}
 $$
+
+### Direction cosines
+
+Where $\hat{\alpha}$ is a direction unit vector
+$$
+\Large
+\begin{flalign}
+cos \ \alpha = \hat{a} \times \hat{i}&& \text{(angle with x-axis)}\\
+cos \ \beta = \hat{a} \times \hat{j}&& \text{(angle with y-axis)}\\
+cos \ \gamma = \hat{a} \times \hat{k}&& \text{(angle with z-axis)}
+\end{flalign}
+$$
+
+
