@@ -16,7 +16,7 @@ Rotation $2\pi$ radians about the x-axis between $x = a$ and $x = b$:
 $$
 \Large
 \begin{flalign}
-V = \int_{a}^{b} y^2 \ dx&&
+V = \pi\int_{a}^{b} y^2 \ dx&&
 \end{flalign}
 $$
 
@@ -25,7 +25,7 @@ Rotation $2\pi$ radians about the y-axis between $y = a$ and $y = b$:
 $$
 \Large
 \begin{flalign}
-V = \int_{a}^{b} x^2 \ dy&&
+V = \pi\int_{a}^{b} x^2 \ dy&&
 \end{flalign}
 $$
 
@@ -33,7 +33,7 @@ In parametric form, where $y = f(t)$ and $x = g(t)$:
 $$
 \Large
 \begin{flalign}
-V = \int_{a}^{b} y^2 \frac{dx}{dt} \ dt&&
+V = \pi\int_{a}^{b} y^2 \frac{dx}{dt} \ dt&&
 \end{flalign}
 $$
 
