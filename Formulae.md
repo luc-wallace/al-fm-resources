@@ -2,7 +2,7 @@
 
 Below is a list of FM formulae that is not included in the formula book. 
 
-### Volume of revolution
+### Volumes of revolution
 
 $$
 \Large
@@ -63,12 +63,46 @@ $$
 where
 $$\Large \begin{flalign} \frac{dy}{dx} = f(x,y)&&\ \end{flalign}$$
 
+### Leibnitz' theorem
 
+$$
+\Large
+\begin{flalign}
+\frac{d^n}{dx^n} (u v) = \sum_{r=0}^{n} \binom{n}{r} u^{(r)} v^{(n-r)}&&
+\end{flalign}
+$$
 
+where
+$$
+\Large
+\begin{flalign}
+y = uv&&
+\end{flalign}
+$$
 
+### L'hôspital's rule
 
+where
+$$
+\Large
+\begin{flalign}
+\lim_{x \to \infty} \frac{f(x)}{g(x)}=\frac{\infty}{\infty}&&
+\end{flalign}
+$$
+or
 
+$$
+\Large
+\begin{flalign}
+\lim_{x \to \infty} \frac{f(x)}{g(x)}=\frac{0}{0}&&
+\end{flalign}
+$$
 
-
-
-
+then
+$$
+\Large
+\begin{flalign}
+\lim_{x \to \infty} \frac{f(x)}{g(x)}=\lim_{x \to \infty} \frac{f'(x)}{g'(x)}
+&&
+\end{flalign}
+$$
