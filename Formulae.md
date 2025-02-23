@@ -80,7 +80,7 @@ y = uv&&
 \end{flalign}
 $$
 
-### L'hôspital's rule
+### L'hôpital's rule
 
 where
 $$
@@ -104,5 +104,30 @@ $$
 \begin{flalign}
 \lim_{x \to \infty} \frac{f(x)}{g(x)}=\lim_{x \to \infty} \frac{f'(x)}{g'(x)}
 &&
+\end{flalign}
+$$
+### Weierstrass subsitution
+
+where $$
+\Large
+\begin{flalign}
+t = tan(\frac{x}{2})&&
+\end{flalign}
+$$then
+$$
+\Large
+\begin{flalign}
+sin(x) = \frac{2t}{1+t^2}&&
+\end{flalign}
+$$$$
+\Large
+\begin{flalign}
+cos(x) = \frac{1-t^2}{1+t^2}&&
+\end{flalign}
+$$
+$$
+\Large
+\begin{flalign}
+tan(x) = \frac{2t}{1-t^2}&&
 \end{flalign}
 $$
