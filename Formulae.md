@@ -21,7 +21,7 @@ $$
 $$
 \Large
 \begin{flalign}
-y \approx y_0+(x -x_0)\frac{dy}{dx}|_{x_0} + \frac{(x-x_0)^2}{2!}\frac{d^2y}{dx^2}|_{x_0} + \frac{(x-x_0)^3}{3!}\frac{d^3y}{dx^3}|_{x_0}  + \; \dots&&
+y \approx y_0+(x -x_0)\frac{dy}{dx}_{x_0} + \frac{(x-x_0)^2}{2!}\frac{d^2y}{dx^2}_{x_0} + \frac{(x-x_0)^3}{3!}\frac{d^3y}{dx^3}_{x_0}  + \; \dots&&
 \end{flalign}
 $$
 where
